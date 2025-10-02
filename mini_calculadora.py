@@ -7,7 +7,6 @@ def resta(a, b):
     pass
 
 def multiplicar(a, b):
-    def multiplicar(a, b):
     return a * b
     pass
 
