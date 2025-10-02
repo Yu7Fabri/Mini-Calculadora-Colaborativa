@@ -7,7 +7,8 @@ def resta(a, b):
     pass
 
 def multiplicar(a, b):
-    # TODO: implementar
+    def multiplicar(a, b):
+    return a * b
     pass
 
 
@@ -17,5 +18,3 @@ if __name__ == "__main__":
     print("Resta(5,2):", resta(5,2))
     print("Multiplicar(3,4):", multiplicar(3,4))
 
-def multiplicar(a, b):
-return a * b
